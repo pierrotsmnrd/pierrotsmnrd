@@ -12,7 +12,7 @@
 
 - 🇫🇷 is my native language, but I also speak 🇬🇧/🇺🇸, 🇸🇪 and 🇩🇪
 
-- 🔭 My current side-projects for fun are : [Advent of Code 2020](https://adventofcode.com/), and monitoring my flat's temperature, humidity and electricity consumption with various sensors and arduinos and [Home Assistant](https://www.home-assistant.io/)
+- 🔭 My current side-projects for fun are : [Advent of Code 2020](https://adventofcode.com/), and monitoring my flat's temperature, humidity and electricity consumption with various sensors, arduinos and [Home Assistant](https://www.home-assistant.io/)
 
 - ⚡ Fun fact: I started programming in 1997 when I was 12 years old, with Basic on a Casio pocket calculator.
 
