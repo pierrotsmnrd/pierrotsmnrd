@@ -8,7 +8,7 @@
 
 - 📊 I love data visualisation. You can find some of my work [here](https://public.tableau.com/profile/pierre.olivier.simonard#!/) or even [here](http://ioapps.io/lab/cts).
 
-- 👨🏼‍🏫 I teach Python and SQL at the University of [Strasbourg, France][https://goo.gl/maps/gMo4bZk7u53iZFJD8] 🥨
+- 👨🏼‍🏫 I teach Python and SQL at the University of [Strasbourg, France](https://goo.gl/maps/gMo4bZk7u53iZFJD8) 🥨
 
 - 🇫🇷 is my native language, but I also speak 🇬🇧/🇺🇸, 🇸🇪 and 🇩🇪
 
