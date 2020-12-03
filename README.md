@@ -4,7 +4,7 @@
 
 - 💬 Tell me about what you want to achieve, and I'll help you manage the data to reach your goal.
 
-- 👨🏼‍💻 My favorite technologies are (but not limited to) : Python (incl. Pandas, Flask), SQL, Docker, Linux (Ubuntu, Raspberry Pi OS, ...)
+- 👨🏼‍💻 My favorite technologies are (but not limited to) : Python (incl. Pandas, Flask), SQL, Docker, Linux/Ubuntu/Raspberry Pi OS
 
 - 📊 I love data visualisation. You can find some of my work [here](https://public.tableau.com/profile/pierre.olivier.simonard#!/) or even [here](http://ioapps.io/lab/cts).
 
