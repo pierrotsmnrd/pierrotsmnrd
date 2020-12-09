@@ -12,9 +12,12 @@
 
 - 🇫🇷 is my native language, but I also speak 🇬🇧/🇺🇸, 🇸🇪 and 🇩🇪
 
-- 🔭 My current side-projects for fun are : [Advent of Code 2020](https://adventofcode.com/), and monitoring my flat's temperature, humidity and electricity consumption with various sensors, arduinos and [Home Assistant](https://www.home-assistant.io/)
-
 - ⚡ Fun fact: I started programming in 1997 when I was 12 years old, with Basic on a Casio pocket calculator.
+
+- 🔭 Last projects for fun : 
+  - [Advent of Code 2020](https://adventofcode.com/)
+  - [a dashboard to visualise earthquakes around my city](http://seismes.ioapps.io) ( [check the repo](https://github.com/pierrotsmnrd/earthquakes_strasbourg) )
+  -  and monitoring my flat's temperature, humidity and electricity consumption with various sensors, arduinos and [Home Assistant](https://www.home-assistant.io/)
 
 
 <!--
