@@ -22,7 +22,7 @@ _Tags : Python, Rust, CRDT_
 - I did my first [Advent of Code 2020](https://adventofcode.com/) with my friends and colleagues during December. Very cool experience, I learned a lot !  
 _Tags : Python_
  
-- An 3.5 magnitude earthquake hit my town on December 4th 2020 , which is a very unusual event around here. This gave me the idea to make [a dashboard to visualise earthquakes in my region over the last decades](http://seismes.ioapps.io) ( [check the repo](https://github.com/pierrotsmnrd/earthquakes_strasbourg) )  
+- A 3.5 magnitude earthquake hit my town on December 4th 2020 , which is a very unusual event around here. This gave me the idea to make [a dashboard to visualise earthquakes in my region over the last decades](http://seismes.ioapps.io) ( [check the repo](https://github.com/pierrotsmnrd/earthquakes_strasbourg) )  
 _Tags : Python, Bokeh, Panel, Holoviews, data-visualization_
 
 - I've set up [Home Assistant](https://www.home-assistant.io/) on a Raspberry Pi to  monitor my flat's temperature, humidity and electricity consumption with various sensors and arduinos  
