@@ -1,3 +1,20 @@
+## Heartbeat July 2021 :
+
+During the last 3 months : 
+- I finished my work on [JupyterLab RTC](https://github.com/jupyterlab/rtc), which will be release in JupyterLab 3.1  
+_Tags : Python, Rust, JS, CRDT_
+
+- I have released a website with statistics around the European Football (⚽️, not 🏈) Championship : [www.statseuro2020.com](http://www.statseuro2020.com).  
+Data Visualization made with Holoviews, website built with Panel. These tools are marvels.  
+_Tags : Python, data-visualization, Holoviews, Panel, Football_
+
+- I worked on various clients projects   
+_Tags : Python, SQL, data-visualization_
+
+- I got my two doses of vaccine 💉💪 
+
+----
+
 ## Heartbeat April 2021 :
 
 During the last 3 months : 
