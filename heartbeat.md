@@ -1,3 +1,22 @@
+## Heartbeat October 2021 :
+
+During the last 3 months : 
+
+- I'm back to school ! For the fourth year, I'm teaching _Algorithmics and Programming_ in python, to first year students of the Bachelor degree in _Mathematics and Computer Sciences_ at the [University of Strasbourg](https://www.unistra.fr/).  
+_Tags : Teaching, Python, Strasbourg, University_
+
+
+- I have worked on [Conda Store](https://github.com/Quansight/conda-store), an open source project of Quansight. Conda Store is the best tool to manage environments  in a **professional** way : reproducibility, tracability, flexibility, durability.  
+_Tags : Python, Conda, Environment, Quansight_
+
+- I worked on various clients projects   
+_Tags : Python, project management_
+
+- I've had my first holidays in four years ! 12 days between München and Prague, absolutely lovely.
+
+----
+
+
 ## Heartbeat July 2021 :
 
 During the last 3 months : 
