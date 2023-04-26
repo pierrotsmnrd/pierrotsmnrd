@@ -1,6 +1,6 @@
 ### Hi there, I'm Pierre-Olivier 👋
 
-- 🤓 I am DevOps Data Engineer.  
+- 🤓 I am a Data Engineer.  
 
 - 💬 Tell me about what you want to achieve, and I'll help you manage the data to reach your goal.
 
